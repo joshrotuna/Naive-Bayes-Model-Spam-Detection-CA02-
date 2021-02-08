@@ -26,12 +26,13 @@ drive.mount('/content/drive')
 ## Launch
 
 Download *CA02_Naive_Bayes* and open the file in Google Colab.
+
 In Google Drive, create the file structure below:
 
 */content/drive/My Drive/MSBA_Colab_2020/ML_Algorithms/CA02/Data*
 
 
-Next, import the *test-mails* & *train-mails* files in previously created folder. 
+Next, open the attached Data.zip file and import the *test-mails* & *train-mails* files into the previously created folder. 
 
 ## Authors
 
