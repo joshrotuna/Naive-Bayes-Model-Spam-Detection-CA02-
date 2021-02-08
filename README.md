@@ -30,6 +30,7 @@ In Google Drive, create the file structure below:
 
 */content/drive/My Drive/MSBA_Colab_2020/ML_Algorithms/CA02/Data*
 
+
 Next, import the *test-mails* & *train-mails* files in previously created folder. 
 
 ## Authors
